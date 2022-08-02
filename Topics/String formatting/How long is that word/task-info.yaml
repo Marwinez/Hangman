@@ -1,0 +1,12 @@
+type: code
+custom_name: How long is that word?
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6896#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 31 Jul 2022 21:24:58 UTC
+record: -1
